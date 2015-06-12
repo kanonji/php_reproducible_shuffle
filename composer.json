@@ -8,7 +8,8 @@
     ],
     "autoload": {
         "psr-4": {
-            "kanonji\\": "src/"
+            "kanonji\\": "src/",
+            "kanonji\\tests\\": "tests/"
         }
     },
     "require": {},
